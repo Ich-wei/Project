@@ -8,6 +8,6 @@ namespace C3Section8
 {
     interface ISample
     {
-        void DoClac(int n);
+        void DoCalc(int n);
     }
 }
